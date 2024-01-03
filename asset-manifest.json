@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ecommerce-food/static/css/main.af752780.css",
+    "main.js": "/ecommerce-food/static/js/main.407fc038.js",
+    "static/js/787.a25f1f37.chunk.js": "/ecommerce-food/static/js/787.a25f1f37.chunk.js",
+    "static/media/pic13.webp": "/ecommerce-food/static/media/pic13.a8c6e4aced12bf0c0830.webp",
+    "static/media/pic12.webp": "/ecommerce-food/static/media/pic12.44435e1720d11da08e77.webp",
+    "static/media/pic5.webp": "/ecommerce-food/static/media/pic5.35e78ce0eae072d33f28.webp",
+    "static/media/pic10.webp": "/ecommerce-food/static/media/pic10.8697d0e8728815920467.webp",
+    "static/media/pic4.webp": "/ecommerce-food/static/media/pic4.5b89b850206fb9a31686.webp",
+    "static/media/pic14.webp": "/ecommerce-food/static/media/pic14.cb01445b44415a600f64.webp",
+    "static/media/pic2.webp": "/ecommerce-food/static/media/pic2.1d810fe887ae749e99c0.webp",
+    "static/media/pic3.webp": "/ecommerce-food/static/media/pic3.110996a9eface49ad423.webp",
+    "static/media/pic6.webp": "/ecommerce-food/static/media/pic6.e9716f5479686ccefe33.webp",
+    "static/media/pic8.webp": "/ecommerce-food/static/media/pic8.d8e341222a2c25718ef6.webp",
+    "static/media/pic16.webp": "/ecommerce-food/static/media/pic16.86ed513731411562c56e.webp",
+    "static/media/pic7.webp": "/ecommerce-food/static/media/pic7.e7859e24b51f7239c656.webp",
+    "static/media/pic17.webp": "/ecommerce-food/static/media/pic17.aa07381909f012a5c5a3.webp",
+    "static/media/pic9.webp": "/ecommerce-food/static/media/pic9.167dce044e9ed80ad24f.webp",
+    "static/media/pic15.webp": "/ecommerce-food/static/media/pic15.a09f0cd98b61644617a0.webp",
+    "static/media/cravepic.webp": "/ecommerce-food/static/media/cravepic.64863dd7eba67f50b846.webp",
+    "index.html": "/ecommerce-food/index.html",
+    "main.af752780.css.map": "/ecommerce-food/static/css/main.af752780.css.map",
+    "main.407fc038.js.map": "/ecommerce-food/static/js/main.407fc038.js.map",
+    "787.a25f1f37.chunk.js.map": "/ecommerce-food/static/js/787.a25f1f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af752780.css",
+    "static/js/main.407fc038.js"
+  ]
+}
